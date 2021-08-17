@@ -10,3 +10,5 @@ git clone https://github.com/Fn79/killyourpc.git
 cd killyourpc
 ./run.bat
 ```
+
+관리자 권한으로 실행해주세요.
